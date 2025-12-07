@@ -1,6 +1,6 @@
 # Issues
 Resolving Issues {
-
+}
 Create issue in the browser
 Open the repository’s main page on GitHub where you want to create the issue.​
 
