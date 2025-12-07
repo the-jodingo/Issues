@@ -13,3 +13,4 @@ Choose a template or select “Open a blank issue” if templates are offered.�
 Enter a short, clear title and a detailed description (what happened, expected behavior, steps to reproduce, screenshots, etc.).​
 
 Optionally set assignees, labels, milestones, or add it to a project, then click Submit new issue (or Create).​
+
