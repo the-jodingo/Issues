@@ -1,7 +1,7 @@
 # Issues
 Resolving Issues {
 }
-Create issue : 
+Create issue : Added optimus to collab and highlight any points.
 
 Open the repository’s main page on GitHub where you want to create the issue.​
 
