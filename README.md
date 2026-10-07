@@ -1,3 +1,6 @@
+[![Docs](https://img.shields.io/badge/type-notes-lightgrey)](https://docs.github.com/en/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Issues — GitHub Issue Workflow Notes
 
 Personal notes on creating and triaging GitHub issues.
