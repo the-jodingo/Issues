@@ -1,17 +1,25 @@
-# Issues
-Resolving Issues {
-}
-Create issue : Added optimus to collab and highlight any points.
+# Issues — GitHub Issue Workflow Notes
 
-Open the repository’s main page on GitHub where you want to create the issue.​
+Personal notes on creating and triaging GitHub issues.
 
-Below the repository name, click the Issues tab; if you do not see it, the owner may have disabled issues.​
+## Creating an issue
 
-Click the New issue button on the right side of the Issues page.​
+1. Open the repository's main page on GitHub.
+2. Click the **Issues** tab (if you don't see it, the owner may have issues disabled).
+3. Click **New issue**.
+4. Choose a template, or select **Open a blank issue**.
+5. Write a clear title and a detailed description — what happened, expected
+   behaviour, steps to reproduce, and screenshots if relevant.
+6. Optionally set assignees, labels, or a milestone, then click **Submit new issue**.
 
-Choose a template or select “Open a blank issue” if templates are offered.​
+## A good issue contains
 
-Enter a short, clear title and a detailed description (what happened, expected behavior, steps to reproduce, screenshots, etc.).​
+- **Title** — specific, not "it's broken"
+- **Expected vs actual** behaviour
+- **Steps to reproduce**
+- **Environment** — OS, version, relevant config
+- **Evidence** — logs, screenshots, stack traces
 
-Optionally set assignees, labels, milestones, or add it to a project, then click Submit new issue.
+## License
 
+MIT
